@@ -1,0 +1,53 @@
+/* Background */
+body {
+    background: linear-gradient(135deg, #eef2ff, #f8fafc);
+}
+
+/* Title */
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1e3a8a;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Card */
+.card {
+    background: white;
+    padding: 18px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 20px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+}
+
+/* Section headers */
+.section {
+    font-size: 18px;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 10px;
+}
+
+/* Highlight box */
+.highlight {
+    background: #e0f2fe;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Buttons */
+button[kind="primary"] {
+    background-color: #2563eb !important;
+    color: white !important;
+    border-radius: 10px !important;
+    font-weight: 600;
+}
+
+/* History cards */
+.history {
+    background: #f1f5f9;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}

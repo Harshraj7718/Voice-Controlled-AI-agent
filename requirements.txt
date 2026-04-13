@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+torchaudio
+torchvision
+numpy
+sounddevice
+scipy
+tqdm
+ollama
